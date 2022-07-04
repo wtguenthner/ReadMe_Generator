@@ -16,7 +16,15 @@ ${badge(obj.license)}
 ## Table of Contents:
 * [Description](#Description)
 
+* [Usage](#Usage)
+
+* [Contributions](#Contributions)
+
+* [Instructions](#Instructions)
+
 * [Questions](#Questions)
+
+
 
 ## Description:
 ${obj.description}
@@ -27,7 +35,7 @@ ${obj.usage}
 ## Contributions:
 ${obj.contributions}
 
-## Test Instructions:
+## Instructions:
 ${obj.instructions}
 
 ## Questions
