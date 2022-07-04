@@ -1,0 +1,24 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtguenthner/ReadMe_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtguenthner/ReadMe_Generator/issues"
+  },
+  "homepage": "https://github.com/wtguenthner/ReadMe_Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
