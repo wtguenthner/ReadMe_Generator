@@ -16,18 +16,18 @@
 
 
 ## Description:
-An application for generating and formating a proper readme file for future projects and assignments.
+An applica
 
 ## Usage:
-Used for adding a readme file to your GitHub and other repository server.
+
 
 ## Contributions:
 
 
 ## Instructions:
-Open the folder with the program in the Terminal. Run the program by typing 'node index.js'. Answer prompted questions and view new readme file in your current folder.
+
 
 ## Questions:
-[GitHub](https://github.com/wtguenthner)
+[GitHub](https://github.com/)
 
-[Email](mailto:wtguenthner@gmail.com)
+[Email](mailto:)

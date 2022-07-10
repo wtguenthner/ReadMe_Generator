@@ -1,6 +1,6 @@
 import fs from 'fs';
 //Randomly selects a color for the badge
-const color = () => ['brightgreen', 'blue', 'orange','blue'][Math.floor(Math.random()*3)]
+const color = ['brightgreen', 'blue', 'orange','blue'][Math.floor(Math.random()*3)]
 
 //Gets the icon for the selected license
 const badge = license => {
