@@ -1,3 +1,4 @@
+// Generates questions for the readme
 const questions = [
     {
         type: 'input',
@@ -37,7 +38,7 @@ const questions = [
     {
         type: 'list',
         name:'license',
-        message: 'Any lincenses?',
+        message: 'Any licenses?',
         choices: ['MIT','Apache','Python','None']
     }
 ];
